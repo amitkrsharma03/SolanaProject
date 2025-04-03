@@ -243,7 +243,7 @@ Deploy:
 railway up
 ```
 
-My dapp link : 
+My dapp link : https://solforgex.netlify.app/
 
 
 ## Lessons Learned
