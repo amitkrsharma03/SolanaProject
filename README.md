@@ -118,8 +118,7 @@ if (!connected || !publicKey) {
 
 ## 📸 Screenshots & Results
 
-- To get the File Structure go this file: https://github.com/amitkrsharma03/SolanaBlockChain/blob/main/File-Structure
-
+- To get the File Structure go this file: FileStructure
 ### Home Page
 
 - The First page we lands on is the Home Page 
